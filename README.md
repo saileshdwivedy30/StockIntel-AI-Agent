@@ -11,6 +11,16 @@ An **AI-powered stock analysis agent** that allows users to enter a **company na
 
 ---
 
+## 🤖 **Tech Stack**  
+- **Python**  
+- **Pydantic AI** (Python agent framework)
+- **Streamlit** (UI Framework)  
+- **Yahoo Finance (`yfinance`)** (Stock Data)  
+- **DuckDuckGo Search (`duckduckgo-search`)** (Symbol Lookup)  
+- **OpenAI GPT-4o** (Stock Analysis AI)  
+
+---
+
 ## 🚀 **Features**  
 - **AI-Powered Stock Analysis**: Uses **GPT-4o** to provide insightful ratings and explanations.  
 - **Company Name to Stock Symbol Conversion**: Enter a company name (e.g., *Apple*), and the AI agent finds the corresponding stock symbol using **DuckDuckGo Search**.  
@@ -21,17 +31,6 @@ An **AI-powered stock analysis agent** that allows users to enter a **company na
   - **RSI (Relative Strength Index)**  
   - **Quarterly & Annual Financial Reports**  
 - **AI-Driven Stock Rating**: Evaluates stocks based on financial and technical factors and assigns a rating.  
-
----
-
-
-## 🤖 **Tech Stack**  
-- **Python**  
-- **Pydantic AI** (Python agent framework)
-- **Streamlit** (UI Framework)  
-- **Yahoo Finance (`yfinance`)** (Stock Data)  
-- **DuckDuckGo Search (`duckduckgo-search`)** (Symbol Lookup)  
-- **OpenAI GPT-4o** (Stock Analysis AI)  
 
 ---
 
