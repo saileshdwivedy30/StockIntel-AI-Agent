@@ -1,0 +1,6 @@
+yfinance
+pydantic-ai
+asyncio
+streamlit
+python-dotenv
+duckduckgo-search
