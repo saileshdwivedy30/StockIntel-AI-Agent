@@ -2,7 +2,7 @@
 
 # 📈 StockIntel AI - Stock Analysis AI Agent  
 
-An **AI-powered stock analysis agent** that allows users to enter a **company name** or **stock ticker** and get a comprehensive analysis based on **real-time financial data, technical indicators, and AI-driven insights**. The AI agent fetches stock data, performs **technical analysis**, and assigns a rating based on financial health and market trends.  
+An **AI-powered stock analysis agent** that allows users to enter a **company name** or **stock ticker** and get a comprehensive analysis based on **real-time financial data, technical indicators, and AI-driven insights**. The AI agent fetches stock data, performs **technical analysis**, and assigns a rating based on financial health and market trends.
 
 ---
 
