@@ -7,7 +7,7 @@ An **AI-powered stock analysis agent** that allows users to enter a **company na
 ---
 
 ## 🎥 **Demo**  
-[Demo Link](https://www.youtube.com/watch?v=oYHgGF4P0tQ)
+Video Link: https://www.youtube.com/watch?v=oYHgGF4P0tQ
 
 ---
 
